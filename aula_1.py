@@ -51,4 +51,3 @@ from sklearn.metrics import accuracy_score
 
 taxa_de_acerto = accuracy_score(teste_y, previsoes)
 print("Taxa de acerto: %.2f" % (taxa_de_acerto * 100), "%")
-
